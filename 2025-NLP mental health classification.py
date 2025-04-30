@@ -1,4 +1,4 @@
-path = r"D:\datasets\NLP\Sentiment Analysis for Mental Health\Sentiment analysis - Combined Data.csv"
+path = r"...tour_path...\Sentiment analysis - Combined Data.csv"
 import pandas as pd
 import numpy as np
 import matplotlib.pyplot as plt
