@@ -117,7 +117,7 @@ def evaluate_and_visualize(model, test_data, y_test_tf, label_names):
 
 def main():
     # Define path and load tokenizer
-    path = r"D:\datasets\NLP\Sentiment Analysis for Mental Health\Sentiment analysis - Combined Data.csv"
+    path = r"...path...\Sentiment analysis - Combined Data.csv"
     tokenizer = AutoTokenizer.from_pretrained('distilbert-base-uncased')
     
     # Load and preprocess data
